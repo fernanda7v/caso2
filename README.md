@@ -33,3 +33,5 @@ print("web 3 ")
 
 >Progreamacion web 3
 
+- [x]  Tarea 1
+- [ ]  Tarea 2
