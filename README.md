@@ -19,5 +19,5 @@
 
 ```
 #este es un comentario en python
-pritn("web 3 ")
+print("web 3 ")
 ```
